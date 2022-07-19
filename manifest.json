@@ -1,0 +1,802 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AirQuality.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AirQuality.html",
+          "hash": "nLU/G7+O+XM+fmuRGb9eVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AirQualityAccuracy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AirQualityAccuracy.html",
+          "hash": "xExc8ly3zdf4a22eZ70uRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AirQualityBackgroundCalibrationDuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AirQualityBackgroundCalibrationDuration.html",
+          "hash": "OGyz08lxqxvu+Gx/NHJgjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AirQualityDataFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AirQualityDataFrame.html",
+          "hash": "1MnGmP6aGUYEAaQ3HTVA2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AirQualityStatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AirQualityStatusLedConfig.html",
+          "hash": "w5eIiiSebNbFJypL3864hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AmbientLightV3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AmbientLightV3.html",
+          "hash": "V7Bqdf6tQ9Z4fe0j9BxsAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AmbientLightV3IlluminanceRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AmbientLightV3IlluminanceRange.html",
+          "hash": "yXSf6tkLAiIVZy8DKkO4pg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AmbientLightV3IntegrationTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AmbientLightV3IntegrationTime.html",
+          "hash": "H7GeBnAVFvHOWJ4+S99vZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AmbientLightV3StatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AmbientLightV3StatusLedConfig.html",
+          "hash": "J8UIAl3ZuNfl5Iq5rU1nNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AnalogInV3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AnalogInV3.html",
+          "hash": "s36KbfaQYgzMO5qqheIi7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AnalogInV3StatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AnalogInV3StatusLedConfig.html",
+          "hash": "Woot1SPk9WdDN/8BPxJxLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AnalogOutV3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AnalogOutV3.html",
+          "hash": "887c4XA5hz+NfkNkhSDtAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.AnalogOutV3StatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.AnalogOutV3StatusLedConfig.html",
+          "hash": "xAfse6kMMZ+nFM0OCVJn8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.CO2V2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.CO2V2.html",
+          "hash": "H38sHos61vwRtrZE0MdwAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.CO2V2DataFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.CO2V2DataFrame.html",
+          "hash": "UzTI/j6DTQ9+ZZmbhwDgMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.CO2V2StatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.CO2V2StatusLedConfig.html",
+          "hash": "AT+OnLeJu6alFk2vTIYk2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.CreateBrickConnection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.CreateBrickConnection.html",
+          "hash": "ia1v9RT3Ul7z1MCbIDD/yA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2.html",
+          "hash": "PerU8vyBQUhkOydesgXNwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2Altitude.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2Altitude.html",
+          "hash": "ZFk0goHF5JZWATCLHRr4vQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2AltitudeDataFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2AltitudeDataFrame.html",
+          "hash": "ulzvBja5WNCvIUSlnyBKCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2Coordinate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2Coordinate.html",
+          "hash": "umE5uwT6zfjSvFsr1BNccQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2CoordinateDataFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2CoordinateDataFrame.html",
+          "hash": "61izvh7Ib/N6fiGyTiZ2oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2DateTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2DateTime.html",
+          "hash": "GhY9t+IF0J69yLmu3oniEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2DateTimeDataFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2DateTimeDataFrame.html",
+          "hash": "SChFP24dvMscowOpCVSZ+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2GeographyPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2GeographyPoint.html",
+          "hash": "vgtZfWvPiSYdoQZdsIm8Bg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2SBASConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2SBASConfig.html",
+          "hash": "N3p8dUd2d4MJBgaNppn2Yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2Status.html",
+          "hash": "J5sjh6yp022WvU3x0L5mIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2StatusDataFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2StatusDataFrame.html",
+          "hash": "EuBfYab+l11Ok+6r88374w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.GPSV2StatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.GPSV2StatusLedConfig.html",
+          "hash": "mg4+F4+AxLNMLwS6zgXjvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.HumidityV2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.HumidityV2.html",
+          "hash": "+APpJyDTKOOObBaMBW05RQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.HumidityV2HeaterConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.HumidityV2HeaterConfig.html",
+          "hash": "ZFmvd4nzARHhUHJ/HrzgRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.HumidityV2StatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.HumidityV2StatusLedConfig.html",
+          "hash": "O8IWYmpSxESa6Ba7bGHTBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2.html",
+          "hash": "Rp1k82zC6JhrTC8TW4Rdug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2CurrentRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2CurrentRange.html",
+          "hash": "w2vRxteSZfZikr/vQU6Vew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2OutLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2OutLedConfig.html",
+          "hash": "4hdCjybbPW9GlzGULa+INQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2OutLedStatusConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2OutLedStatusConfig.html",
+          "hash": "wufO/uW8AbKg5WY3AyF4QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2StatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2StatusLedConfig.html",
+          "hash": "BKA6xgiBsxKYEY03IYTqdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2VoltageRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialAnalogOutV2VoltageRange.html",
+          "hash": "6voWcYpayeUkztO3oOCvIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialPTC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialPTC.html",
+          "hash": "cdqjO4JzrDmfGCac6QhJgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialPTCStatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialPTCStatusLedConfig.html",
+          "hash": "Nzoc6t+So84qjN2U5A4CEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.IndustrialPTCWireMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.IndustrialPTCWireMode.html",
+          "hash": "/j8IBsao7BlWLbmkwvDB6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.ParticulateMatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.ParticulateMatter.html",
+          "hash": "gxB1mJ3pBILpR75MxDHyVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.ParticulateMatterDataFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.ParticulateMatterDataFrame.html",
+          "hash": "UGpSpU0HK79qjNLinwh7wA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.ParticulateMatterStatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.ParticulateMatterStatusLedConfig.html",
+          "hash": "cEKGfZRFdWTdCsgegjMEBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.SoundPressureLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.SoundPressureLevel.html",
+          "hash": "jrwjdw+83hCqnMXjz2vR4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.SoundPressureLevelFftSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.SoundPressureLevelFftSize.html",
+          "hash": "lH3nAL06Xg3MPWFKlkk56A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.SoundPressureLevelStatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.SoundPressureLevelStatusLedConfig.html",
+          "hash": "R92fncbNnyOQgv1T4YoaCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.SoundPressureLevelWeightingFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.SoundPressureLevelWeightingFunction.html",
+          "hash": "MNYjlCB1ezW1DRMWZh8J/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2.html",
+          "hash": "BWwkne2v7FiAiHdX8cbKNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2AveragingSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2AveragingSize.html",
+          "hash": "465V4fcCVI+/0G67DKhQIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2FilterOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2FilterOption.html",
+          "hash": "1l3megKOacKRgJNFgen06A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2StatusLedConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2StatusLedConfig.html",
+          "hash": "//Q3M4r8IYsuH5v7HRiYOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2ThermocoupleType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.ThermocoupleV2ThermocoupleType.html",
+          "hash": "w04lZi+XzLIGK6cpR/ZGIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Tinkerforge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Tinkerforge.html",
+          "hash": "osAUQ3z2O8oTG346qIEGJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "QKu/53jXCOY3a1OqcusTZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "nXfOf9A+QEPy0xBgxBH/BA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "gVM3Ak4T76E3bycIwkpuhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "A+ss1bk8ymSvOo2v19akAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 54,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
