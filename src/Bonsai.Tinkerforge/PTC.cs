@@ -18,7 +18,7 @@ namespace Bonsai.Tinkerforge
         /// Gets or sets the bricklet device UID.
         /// </summary>
         [TypeConverter(typeof(UidConverter))]
-        [DeviceType(typeof(BrickletPTCV2))]
+        [DeviceType(typeof(BrickletPTC))]
         [Description("The bricklet device UID.")]
         public string Uid { get; set; }
 
@@ -60,7 +60,7 @@ namespace Bonsai.Tinkerforge
         /// <inheritdoc/>
         public override string ToString()
         {
-            return BrickletPTCV2.DEVICE_DISPLAY_NAME;
+            return BrickletPTC.DEVICE_DISPLAY_NAME;
         }
 
         /// <summary>
@@ -120,17 +120,17 @@ namespace Bonsai.Tinkerforge
             /// <summary>
             /// The bricklet will use a 2-wire sensor.
             /// </summary>
-            WireMode2 = BrickletIndustrialPTC.WIRE_MODE_2,
+            WireMode2 = BrickletPTC.WIRE_MODE_2,
 
             /// <summary>
             /// The bricklet will use a 2-wire sensor.
             /// </summary>
-            WireMode3 = BrickletIndustrialPTC.WIRE_MODE_3,
+            WireMode3 = BrickletPTC.WIRE_MODE_3,
 
             /// <summary>
             /// The bricklet will use a 4-wire sensor.
             /// </summary>
-            WireMode4 = BrickletIndustrialPTC.WIRE_MODE_4,
+            WireMode4 = BrickletPTC.WIRE_MODE_4,
         }
 
         /// <summary>
