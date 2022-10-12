@@ -118,17 +118,17 @@ namespace Bonsai.Tinkerforge
             /// <summary>
             /// The bricklet will use a 2-wire sensor.
             /// </summary>
-            WireMode2 = BrickletIndustrialPTC.WIRE_MODE_2,
+            WireMode2 = BrickletPTCV2.WIRE_MODE_2,
 
             /// <summary>
             /// The bricklet will use a 2-wire sensor.
             /// </summary>
-            WireMode3 = BrickletIndustrialPTC.WIRE_MODE_3,
+            WireMode3 = BrickletPTCV2.WIRE_MODE_3,
 
             /// <summary>
             /// The bricklet will use a 4-wire sensor.
             /// </summary>
-            WireMode4 = BrickletIndustrialPTC.WIRE_MODE_4,
+            WireMode4 = BrickletPTCV2.WIRE_MODE_4,
         }
 
         /// <summary>
@@ -139,23 +139,23 @@ namespace Bonsai.Tinkerforge
             /// <summary>
             /// The status LED will be permanently OFF.
             /// </summary>
-            Off = BrickletIndustrialPTC.STATUS_LED_CONFIG_OFF,
+            Off = BrickletPTCV2.STATUS_LED_CONFIG_OFF,
 
             /// <summary>
             /// The status LED will be permanently ON as long as the bricklet is powered.
             /// </summary>
-            On = BrickletIndustrialPTC.STATUS_LED_CONFIG_ON,
+            On = BrickletPTCV2.STATUS_LED_CONFIG_ON,
 
             /// <summary>
             /// The status LED will change state periodically every second.
             /// </summary>
-            ShowHeartbeat = BrickletIndustrialPTC.STATUS_LED_CONFIG_SHOW_HEARTBEAT,
+            ShowHeartbeat = BrickletPTCV2.STATUS_LED_CONFIG_SHOW_HEARTBEAT,
 
             /// <summary>
             /// The LED will show communication traffic between Brick and Bricklet,
             /// flickering once for every 10 received data packets.
             /// </summary>
-            ShowStatus = BrickletIndustrialPTC.STATUS_LED_CONFIG_SHOW_STATUS
+            ShowStatus = BrickletPTCV2.STATUS_LED_CONFIG_SHOW_STATUS
         }
     }
 }
